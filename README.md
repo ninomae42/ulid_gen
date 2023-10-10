@@ -6,7 +6,7 @@ ULID generator tool
 
 ## Install
 ```
-go install http://github.com/ninomae42/ulid_gen@latest
+go install github.com/ninomae42/ulid_gen@latest
 ```
 
 ## Usage
